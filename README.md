@@ -1,2 +1,2 @@
-# infectious_disease_modelling
-Special topics class at Boulder
+# Infectious Disease Modelling
+Python coding for special topics class at Boulder - taught by Prof. Daniel Larremore
